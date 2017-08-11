@@ -5,6 +5,7 @@ public class Country {
 	String countryName;
 	long population;
 
+	//temp
 	public Country() {
 		super();
 	}

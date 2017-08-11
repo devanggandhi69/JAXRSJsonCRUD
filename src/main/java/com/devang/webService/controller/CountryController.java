@@ -17,6 +17,7 @@ import com.devang.webService.service.CountryService;
 @Path("/countries")
 public class CountryController {
 
+	//Autowire not used
 	CountryService countryService = new CountryService();
 
 	@GET
